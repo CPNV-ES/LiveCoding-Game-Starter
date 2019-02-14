@@ -1,9 +1,9 @@
 # LiveCoding-Game-Starter
 
-> A Pokemon game like for LiveCoding.
+> This repo provides a starter strucutre to build livecoding game.
 
-## v0.1.0 changelog
+## How to use it
 
-- Libraries loading via external cdn
-- Rollup bundler configuration
-- A example game class
+Download this repo on your dev environnment, and updates the default configuration to match your game requirements.
+
+This example repo contains all the LiveCoding game possibilities, to get more details for game development, visit the [LiveCoding documentation](https://github.com/CPNV-ES/LiveCoding/tree/master/docs).
