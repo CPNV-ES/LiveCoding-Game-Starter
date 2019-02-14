@@ -4,7 +4,8 @@
   "description": "This repo provides a starter strucutre to build livecoding game.",
   "author": "Bastien Nicoud",
   "devDependencies": {
-    "rollup": "^1.1.2"
+    "rollup": "^1.1.2",
+    "rollup-plugin-terser": "^4.0.4"
   },
   "scripts": {
     "dev": "rollup -c --watch",
