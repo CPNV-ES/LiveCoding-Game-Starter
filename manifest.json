@@ -10,7 +10,13 @@
     "assets": "assets"
   },
   "interpreters": {
-    "php": "interpreters/php.php",
-    "ruby": "interpreters/ruby.rb"
-  }
+    "php": "interpreters/example.php"
+  },
+  "instructions": [
+    {
+      "name": "Example",
+      "description": "An instruction file example",
+      "path": "instructions/example.md"
+    }
+  ]
 }
