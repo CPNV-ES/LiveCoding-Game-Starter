@@ -1,0 +1,13 @@
+{
+  "name": "livecoding-game-starter",
+  "version": "0.0.0",
+  "description": "This repo provides a starter strucutre to build livecoding game.",
+  "author": "Bastien Nicoud",
+  "devDependencies": {
+    "rollup": "^1.1.2"
+  },
+  "scripts": {
+    "dev": "rollup -c --watch",
+    "build": "rollup -c"
+  }
+}
